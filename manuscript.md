@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-06" />
   <meta name="citation_publication_date" content="2023-09-06" />
   <meta property="article:published_time" content="2023-09-06" />
-  <meta name="dc.modified" content="2023-09-06T21:39:27+00:00" />
-  <meta property="article:modified_time" content="2023-09-06T21:39:27+00:00" />
+  <meta name="dc.modified" content="2023-09-06T21:55:45+00:00" />
+  <meta property="article:modified_time" content="2023-09-06T21:55:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hbeale.github.io/manubot_test/" />
   <meta name="citation_pdf_url" content="https://hbeale.github.io/manubot_test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hbeale.github.io/manubot_test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hbeale.github.io/manubot_test/v/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013/" />
-  <meta name="manubot_html_url_versioned" content="https://hbeale.github.io/manubot_test/v/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hbeale.github.io/manubot_test/v/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hbeale.github.io/manubot_test/v/9043a241e9b03860feb11cc9030fb55ca5157aef/" />
+  <meta name="manubot_html_url_versioned" content="https://hbeale.github.io/manubot_test/v/9043a241e9b03860feb11cc9030fb55ca5157aef/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hbeale.github.io/manubot_test/v/9043a241e9b03860feb11cc9030fb55ca5157aef/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hbeale.github.io/manubot_test/v/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013/))
+([permalink](https://hbeale.github.io/manubot_test/v/9043a241e9b03860feb11cc9030fb55ca5157aef/))
 was automatically generated
-from [hbeale/manubot_test@ffa6daf](https://github.com/hbeale/manubot_test/tree/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013)
+from [hbeale/manubot_test@9043a24](https://github.com/hbeale/manubot_test/tree/9043a241e9b03860feb11cc9030fb55ca5157aef)
 on September 6, 2023.
 </em></small>
 
@@ -86,7 +86,7 @@ on September 6, 2023.
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [hbeale](https://github.com/hbeale)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
