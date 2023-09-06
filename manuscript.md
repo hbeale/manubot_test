@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Test of TUBI 2023 Manuscript
 keywords:
 - markdown
 - publishing
@@ -16,15 +16,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Test of TUBI 2023 Manuscript" />
+  <meta name="citation_title" content="Test of TUBI 2023 Manuscript" />
+  <meta property="og:title" content="Test of TUBI 2023 Manuscript" />
+  <meta property="twitter:title" content="Test of TUBI 2023 Manuscript" />
   <meta name="dc.date" content="2023-09-06" />
   <meta name="citation_publication_date" content="2023-09-06" />
   <meta property="article:published_time" content="2023-09-06" />
-  <meta name="dc.modified" content="2023-09-06T21:37:24+00:00" />
-  <meta property="article:modified_time" content="2023-09-06T21:37:24+00:00" />
+  <meta name="dc.modified" content="2023-09-06T21:39:27+00:00" />
+  <meta property="article:modified_time" content="2023-09-06T21:39:27+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hbeale.github.io/manubot_test/" />
   <meta name="citation_pdf_url" content="https://hbeale.github.io/manubot_test/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hbeale.github.io/manubot_test/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hbeale.github.io/manubot_test/v/8c1a803748961dcf6b7e8ed4d5ec8f8ce6d5a2a9/" />
-  <meta name="manubot_html_url_versioned" content="https://hbeale.github.io/manubot_test/v/8c1a803748961dcf6b7e8ed4d5ec8f8ce6d5a2a9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hbeale.github.io/manubot_test/v/8c1a803748961dcf6b7e8ed4d5ec8f8ce6d5a2a9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hbeale.github.io/manubot_test/v/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013/" />
+  <meta name="manubot_html_url_versioned" content="https://hbeale.github.io/manubot_test/v/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hbeale.github.io/manubot_test/v/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hbeale.github.io/manubot_test/v/8c1a803748961dcf6b7e8ed4d5ec8f8ce6d5a2a9/))
+([permalink](https://hbeale.github.io/manubot_test/v/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013/))
 was automatically generated
-from [hbeale/manubot_test@8c1a803](https://github.com/hbeale/manubot_test/tree/8c1a803748961dcf6b7e8ed4d5ec8f8ce6d5a2a9)
+from [hbeale/manubot_test@ffa6daf](https://github.com/hbeale/manubot_test/tree/ffa6dafc1c3fa4ce238d7ea0002f30e8cfde7013)
 on September 6, 2023.
 </em></small>
 
